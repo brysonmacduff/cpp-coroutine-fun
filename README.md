@@ -1,6 +1,6 @@
 ## Description
 
-    - This repository includes c++20 code for experimenting with asynchronous programming.
+This repository includes c++20 code for experimenting with asynchronous programming.
 
 ## Build
 
